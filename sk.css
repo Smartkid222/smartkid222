@@ -457,11 +457,9 @@ nav.close ~ .dashboard .top{
     }
 }
 footer{
-    position: fixed;
+    padding: 50px 15% 10px;
     background: #140B5C;
-    width: 100%;
-    bottom: 0;
-    left: 0;
+    border-top: 6px solid #333;
   }
   footer::before{
     content: '';
