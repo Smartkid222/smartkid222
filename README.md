@@ -1,13 +1,7 @@
-👋 Hi there, I’m @Smartkid222
-I am front-end developer, learning to become a full-stack developer. My focus is always the best secure, reliable, and with good user experience websites.
-🌱 I’m currently learning more about Node, machine learning, jQuery,
-Typescript and python frameworks.
-👯 I’m looking to collaborate with other passionate developers
-My Stack
-Javascript
-CSS/SCSS
-HTML5
-Git
+Hey! It's SmartKid and I'm a Frontend Web Developer located in Lagos Nigeria. From an early age, I became fascinated with computers and programming. Starting with basic HTML and CSS, I gradually expanded my skills to include JavaScript
+
+I am committed to leveraging my skills and expertise to contribute to meaningful projects that have a positive impact on society. I am eager to take on new challenges and collaborate with talented individuals to create innovative solutions.
+
 
 
 <!---
